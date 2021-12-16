@@ -1,0 +1,6 @@
+{
+    "ConnectionStrings": {
+        "UniversityManagerDbContext": "Data Source=localhost;Integrated Security=True;"
+    }
+
+}
