@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversityManager.Repository", "UniversityManager.Model\UniversityManager.Repository.csproj", "{7E0DD6AD-C3A5-4608-9340-C09DC5A3203E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversityManager.Repository", "UniversityManager.Repository\UniversityManager.Repository.csproj", "{7E0DD6AD-C3A5-4608-9340-C09DC5A3203E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversityManager.DataAccess", "UniversityManager.DataAccess\UniversityManager.DataAccess.csproj", "{A83DE2C1-0B6E-41C5-87AB-7E368EB82720}"
 EndProject
