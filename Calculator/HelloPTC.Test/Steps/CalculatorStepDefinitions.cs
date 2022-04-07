@@ -8,7 +8,7 @@ namespace HelloPTC.Test.Steps
     public sealed class CalculatorStepDefinitions
     {
         int result;
-        private SimpleCalculator calculator = new SimpleCalculator(); 
+        private SimpleCalculator calculator = new SimpleCalculator();
 
 
         public CalculatorStepDefinitions()
@@ -30,7 +30,7 @@ namespace HelloPTC.Test.Steps
         [When("the two numbers are added")]
         public void WhenTheTwoNumbersAreAdded()
         {
-            result =  calculator.Add();
+            result = calculator.Add();
         }
 
         [Then("the result should be (.*)")]
@@ -38,5 +38,6 @@ namespace HelloPTC.Test.Steps
         {
             Assert.AreEqual(expectedResult, result);
         }
+
     }
 }

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{D7D36943-7C70-4D84-9330-43FF02AB5B60}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloPTC.Test", "HelloPTC.Test\HelloPTC.Test.csproj", "{7172068F-EDC8-43D4-9C82-0DAC2C12F436}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.Test", "HelloPTC.Test\Calculator.Test.csproj", "{7172068F-EDC8-43D4-9C82-0DAC2C12F436}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

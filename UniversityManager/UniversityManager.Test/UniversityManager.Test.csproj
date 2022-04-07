@@ -41,7 +41,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\UniversityManager.DataAccess\UniversityManager.DataAccess.csproj" />
-    <ProjectReference Include="..\UniversityManager.Model\UniversityManager.Repository.csproj" />
     <ProjectReference Include="..\UniversityManager.Repository\UniversityManager.Repository.csproj" />
     <ProjectReference Include="..\UniversityManager.Service\UniversityManager.Service.csproj" />
   </ItemGroup>
